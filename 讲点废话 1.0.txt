@@ -5,7 +5,7 @@
 GLT是Geographic Lookup Table的简写，意为地理信息查找表，是一种栅格数据。每个像元的值对应着卫星影像像元的行列号。
 
 ②/Nullschool earth
-Nullschool earth是一个可视化效果极其炫酷的气象网站（网址：），本文件夹下的代码模仿了Nullschool earth的流场图风格。
+Nullschool earth是一个可视化效果极其炫酷的气象网站（网址：https://earth.nullschool.net/），本文件夹下的代码模仿了Nullschool earth的流场图风格。
 
 ③/True color
 这里包含了一部分静止气象卫星的真彩色云图绘制程序。文件名后边带prj的，是等经纬投影云图程序。不带prj的，则是标称投影云图程序。
